@@ -1,0 +1,14 @@
+Lays Original, A1, 12.00
+Doritos, A2, 12.00
+Fritos, A3, 12.00
+Lays Jalapeno, A1, 12.00
+Cheetos, B1, 12.00
+M&M Classic, B2, 20.00
+M&M peanuts, B3, 25.00
+Oreo Cookies, B4, 15.00
+Snickers C1, Chocolate Bar, 19.00
+Kit Kat, C2, 15.00
+Ritz Cookies, C3, 12.00
+Quaker Bar, C4, 15.00
+Reese's, D1, 18.00
+Hershey's Bar, D2, 22.00

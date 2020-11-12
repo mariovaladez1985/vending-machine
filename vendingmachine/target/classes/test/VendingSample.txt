@@ -1,0 +1,6 @@
+Nuts, L3, $0.50
+Chips, L2, $1.00
+Biscuit, L1, $0.80
+Soda, A1, $1.10
+Cookies, A2, $0.70
+Bubble gum, A3, $0.30

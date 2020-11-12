@@ -1,0 +1,13 @@
+Maquina dispensadora.
+
+Generar una aplicación en spring la cual contenga un rest controller para administrar una máquina dispensadora de bebidas.
+1. La maquina tiene un monto global
+2. Debe tener una lista global de productos los cuales deben ser importados desde un archivo donde cada linea sigue la siguiente forma: codigo, precio
+-Ruta = /load-product-list
+3. Debe permitir insertar dinero en cualquier momento y cualquier denominacion
+-Ruta = /add-to-balance
+4. Debe permitir seleccionar un producto por codigo de producto
+-Ruta = /select-product/
+5. Debe permitir devoluciones
+
+6. Cada funcionalidad tiene un set de pruebas en junit

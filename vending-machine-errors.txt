@@ -1,0 +1,5 @@
+Codigo: 
+1. La lista de productos no se están subiendo cuando se ingresa un archivo de texto
+2. Al subir productos está permitiendo subir duplicados
+3. Al agregar dinero a la maquina no se ve reflejado el nuevo saldo
+4. JUnit test case: addCashBalanceInvalid the assertions are failing
